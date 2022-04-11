@@ -1,15 +1,5 @@
-body {
-background-color: LightSlateGray;
-color: DimGray;
-text-align: center;
-}
+body {background-color: #eee8d5;color: #586e75;text-align: center;padding: 100px;}
 
-a {color: DimGray;}
+a {color: #586e75};
 
-@media screen and (prefers-color-scheme: dark) {
-body {
-	background-color: DimGray;
-	color: LightSlateGray;
-a {
-	color: LightSlateGray;
-	}}}
+@media screen and (prefers-color-scheme: dark) {body {background-color: #002b36;color: #586e75;a {color: #586e75;}}}
