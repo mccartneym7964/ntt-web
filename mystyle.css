@@ -1,6 +1,6 @@
 body {
-background-color: white;
-color: black;
+background-color: Gainsboro;
+color: LightSlateGray;
 text-align: center;
 }
 @media screen and (prefers-color-scheme: dark) {
