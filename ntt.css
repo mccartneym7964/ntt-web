@@ -3,8 +3,13 @@ background-color: LightSlateGray;
 color: DimGray;
 text-align: center;
 }
+
+a {color: DimGray;}
+
 @media screen and (prefers-color-scheme: dark) {
 body {
 	background-color: DimGray;
 	color: LightSlateGray;
-}}
+a {
+	color: LightSlateGray;
+	}}}
