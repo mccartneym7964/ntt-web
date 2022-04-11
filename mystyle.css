@@ -1,10 +1,10 @@
 body {
-background-color: Gainsboro;
-color: LightSlateGray;
+background-color: LightSlateGray;
+color: DimGray;
 text-align: center;
 }
 @media screen and (prefers-color-scheme: dark) {
 body {
-	background-color: LightSlateGray;
-	color: Gainsboro;
+	background-color: DimGray;
+	color: LightSlateGray;
 }}
